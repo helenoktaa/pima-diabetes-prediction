@@ -5,7 +5,7 @@ It demonstrates data preprocessing, visualization, and classification using **Lo
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 - **Dataset**: Pima Indians Diabetes Dataset (Kaggle)
 - **Goal**: Predict whether a patient has diabetes based on medical attributes.
 - **Language**: Python
@@ -13,7 +13,7 @@ It demonstrates data preprocessing, visualization, and classification using **Lo
 
 ---
 
-## ⚙️ Steps in the Project
+##  Steps in the Project
 1. **Data Preprocessing**
    - Handled dataset using Pandas & NumPy
    - Scaled features using StandardScaler  
@@ -35,7 +35,7 @@ It demonstrates data preprocessing, visualization, and classification using **Lo
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
