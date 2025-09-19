@@ -1,4 +1,4 @@
-# 🧠 Pima Indians Diabetes Prediction
+#  Pima Indians Diabetes Prediction 
 
 This project focuses on building a machine learning model to predict diabetes using the **Pima Indians Diabetes Dataset**.  
 It demonstrates data preprocessing, visualization, and classification using **Logistic Regression**.
